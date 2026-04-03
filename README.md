@@ -65,8 +65,8 @@ The goal of this analysis is to transform raw data into meaningful insights that
 ---
 
 ## 📁 Files Included
-- Dataset (if allowed)
-- Dashboard file (Excel / Power BI)
+- Dataset
+- Dashboard file (Power BI)
 - Project documentation
 
 ---
